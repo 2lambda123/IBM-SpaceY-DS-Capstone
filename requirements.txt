@@ -7,7 +7,7 @@ dash-pivottable==0.0.2
 dash-table==5.0.0
 dask==2021.10.0
 jupyterlab-dash==0.1.0a3
-numpy==1.21.4
+numpy==1.22.0
 pandas==1.4.4
 pandas-datareader==0.10.0
 pip==23.3
